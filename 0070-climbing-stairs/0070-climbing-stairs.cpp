@@ -1,5 +1,6 @@
 class Solution {
 public:
+//Memoization approach
     int solve(int n,vector<int>&dp)
     {
         if(n==0) return 1;
