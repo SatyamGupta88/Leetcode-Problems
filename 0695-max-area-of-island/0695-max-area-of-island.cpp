@@ -5,7 +5,6 @@ class Solution {
             grid[i][j]=0;
             queue<pair<int,int>>q;
             q.push({i,j});
-            
             while(!q.empty()){
                 auto frt=q.front();
                 q.pop();
