@@ -31,6 +31,7 @@ public:
             int r = q.front().first.first;
             int c = q.front().first.second;
             int t = q.front().second;
+            // update the maximum time
             time_to_rotten = max(time_to_rotten,t);
             q.pop();
             //move around in all four directions
