@@ -8,6 +8,7 @@ public:
         queue<pair<pair<int,int>,int>>q;
         //visited matrix
         int vis[n][m];
+        int oneCount = 0;
         //traverse the matrix and store all rotten oragnes in queue
         for(int i=0;i<n;i++)
         {
@@ -19,13 +20,14 @@ public:
                     vis[i][j] = 2;
                 }
                 else vis[i][j] = 0;
+                if(grid[i][j] == 1) oneCount++;
             }
         }
 //now traverse in all four direction the queue to get maximum time for all rotten orange
         int drow[4] = {-1,0,1,0};
         int dcol[4] = {0,+1,0,-1};
         int time_to_rotten = 0;
-
+        int fresOrangesCount = 0;
         while(!q.empty())
         {
             int r = q.front().first.first;
@@ -45,18 +47,21 @@ public:
                {
                    q.push({{nrw,ncl},t+1});
                    vis[nrw][ncl] = 2;
+                   fresOrangesCount++;
 
                } 
             } 
         }
         //chck is their any cell left having 2 
         for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                if(vis[i][j]!=2 && grid[i][j] == 1) return -1;
-            }
-        }
+        // {
+        //     for(int j=0;j<m;j++)
+        //     {
+        //         if(vis[i][j]!=2 && grid[i][j] == 1) return -1;
+        //     }
+        // }
+        //  or
+        if(fresOrangesCount!=oneCount) return -1;
         return time_to_rotten;
     }
 };
