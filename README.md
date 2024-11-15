@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
 |  |
@@ -14,5 +15,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/1036-rotting-oranges) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
