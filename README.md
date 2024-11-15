@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [1036-rotting-oranges](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
 |  |
@@ -21,4 +22,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
