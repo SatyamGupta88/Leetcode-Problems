@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [1036-rotting-oranges](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/1036-rotting-oranges) |
@@ -26,4 +27,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
