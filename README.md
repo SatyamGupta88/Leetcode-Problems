@@ -31,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0056-merge-intervals) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
