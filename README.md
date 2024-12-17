@@ -38,5 +38,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0177-nth-highest-salary](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0178-rank-scores) |
 | [0596-classes-more-than-5-students](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0596-classes-more-than-5-students) |
+| [0620-not-boring-movies](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/1161-project-employees-i) |
 <!---LeetCode Topics End-->
