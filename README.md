@@ -42,4 +42,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/1161-project-employees-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
