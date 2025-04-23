@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0184-department-highest-salary](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0584-find-customer-referee](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0584-find-customer-referee) |
 | [0596-classes-more-than-5-students](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/SatyamGupta88/Leetcode-Problems/tree/master/1135-customers-who-bought-all-products) |
